@@ -6,7 +6,7 @@ Manual Kiessling, and working through the application example it described.
 
 
 ## Usage
-It's a node application so use start node with:
+It's a node application, so run it with:
 
 `node index.js` 
 
